@@ -1,0 +1,8 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.test{
+    color: aqua;
+    cursor: url("https://www.google.com/search?q=image&rlz=1C5CHFA_enJP1064JP1064&oq=image&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGEAyCQgCEAAYQxiKBTIJCAMQABhDGIoFMgYIBBBFGDwyBggFEEUYPDIGCAYQRRg8MgYIBxBFGD3SAQg0NDExajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#imgrc=Q53WJiavu6IJtM"),auto;
+}
