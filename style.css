@@ -54,7 +54,7 @@
         margin-top: 15px;
         margin-bottom: 15px;
     }
-    .buttton-point{
+    .buttton-point {
         padding: 8px 7px;
         background-color: red;
         color: white;
@@ -68,4 +68,25 @@
         background-color: black;
         color: red;
     }
-    
+    .img-banner {
+        width: 350px;
+    }
+    .about-container{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: row-reverse;
+        padding: 25px;
+    }
+    .hello{
+        text-align: center;
+        padding-top: 20px;
+        font-size: 40px;
+        
+
+    }
+    .para-one{
+        font-size: 20px;
+        margin-bottom: 10px;;
+        
+    }
